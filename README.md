@@ -35,7 +35,7 @@ This portfolio highlights a selection of my GIS projects, including spatial anal
 
 This portfolio showcases multiple sections highlighting different aspects of my work:
 
-- **Section 1** - Web Mapping (ArcGIS, QGIS, Mapbox)
+- **Section 1** - Web Mapping (ArcGIS, QGIS, Mapbox, USGS data)
 - **Section 2** - Academic Studies (Research, StoryMap)
 - **Section 3** - Visualizing Geospatial Data (Tableau, Elevation, Creative Visualizations)
 - **Section 4** - Geography of Housing (Demographic Trends, PolicyMap)
