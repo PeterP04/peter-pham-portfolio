@@ -56,7 +56,7 @@ This portfolio is built using:
 Feel free to reach out if you'd like to collaborate or discuss opportunities:
 
 - **GitHub**: [PeterP04](https://github.com/PeterP04)
-- **Email**: [peterpham04@outlook.com]
+- **Email**: peterpham04@outlook.com
 - **LinkedIn**: [LinkedIn](www.linkedin.com/in/peter-pham-984817390)
 - **Portfolio**: [https://peterp04.github.io/peter-pham-portfolio/](https://peterp04.github.io/peter-pham-portfolio/)
 
