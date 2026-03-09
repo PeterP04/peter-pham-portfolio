@@ -2,7 +2,7 @@
 
 A responsive web portfolio showcasing my projects and GIS skills. This portfolio is built with modern web technologies and is fully responsive across all devices.
 
-## 🌐 Live Demo
+## 🌐 View my portfolio!
 
 Visit my portfolio: [Peter Pham Portfolio](https://peterp04.github.io/peter-pham-portfolio/)
 
@@ -13,7 +13,6 @@ Visit my portfolio: [Peter Pham Portfolio](https://peterp04.github.io/peter-pham
 - [Projects](#projects)
 - [Technologies](#technologies)
 - [Contact](#contact)
-- [License](#license)
 
 ## 👤 About
 
@@ -60,10 +59,6 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities:
 - **Email**: [peterpham04@outlook.com]
 - **LinkedIn**: [LinkedIn](www.linkedin.com/in/peter-pham-984817390)
 - **Portfolio**: [https://peterp04.github.io/peter-pham-portfolio/](https://peterp04.github.io/peter-pham-portfolio/)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
