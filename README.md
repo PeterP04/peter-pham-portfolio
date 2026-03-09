@@ -4,7 +4,7 @@ A responsive web portfolio showcasing my projects and GIS skills. This portfolio
 
 ## 🌐 View my portfolio!
 
-Visit my portfolio: [Peter Pham Portfolio](https://peterp04.github.io/peter-pham-portfolio/)
+Visit my portfolio: <a href="https://peterp04.github.io/peter-pham-portfolio/" target="_blank">Peter Pham Portfolio</a>
 
 ## 📋 Table of Contents
 
