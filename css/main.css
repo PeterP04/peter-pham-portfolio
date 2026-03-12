@@ -167,3 +167,56 @@ body {
   }
 
 }
+
+/* ---------- IFRAME PROJECT VIEWER ---------- */
+
+/* Container for iframe projects */
+.iframe-container {
+  margin-top: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+
+/* Style the iframe itself */
+.iframe-container iframe {
+  width: 100%;
+  height: 600px;
+  border: none;
+  display: block;
+}
+
+/* Responsive adjustment */
+@media screen and (max-width: 800px) {
+  .iframe-container iframe {
+    height: 400px;
+  }
+}
+
+/* ---------- PROJECT SECTION ---------- */
+
+.project {
+  margin-top: 20px;
+}
+
+.project h3 {
+  margin-bottom: 6px;
+}
+
+/* ---------- OPEN LINK BUTTON ---------- */
+
+.open-link {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 16px;
+  background-color: #4169E1;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background 0.25s ease, transform 0.2s ease;
+}
+
+.open-link:hover {
+  background-color: #2f4fd6;
+  transform: translateY(-2px);
+}
