@@ -11,7 +11,7 @@ body {
 .topnav {
   background-color: #0047AB;
   display: flex;
-  align-items: center;
+  align-items: left;
   padding: 0 20px;
 }
 
@@ -221,5 +221,6 @@ body {
   background-color: #2f4fd6;
   transform: translateY(-2px);
 }
+
 
 
