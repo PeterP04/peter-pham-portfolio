@@ -40,7 +40,7 @@ body {
 /* ---------------- CONTENT ---------------- */
 
 .content {
-  padding: 40px;
+  padding: 20px;
   max-width: 1100px;
   margin-left: 40px;
   text-align: left;
@@ -221,6 +221,7 @@ body {
   background-color: #2f4fd6;
   transform: translateY(-2px);
 }
+
 
 
 
