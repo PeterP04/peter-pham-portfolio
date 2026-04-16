@@ -2,11 +2,11 @@
 
 A responsive web portfolio showcasing my projects and GIS skills. This portfolio is built with modern web technologies and is fully responsive across all devices.
 
-## 🌐 View my portfolio!
+## View my portfolio!
 
 Visit my portfolio: [Peter Pham Portfolio](https://peterp04.github.io/peter-pham-portfolio/)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Features](#features)
@@ -14,7 +14,7 @@ Visit my portfolio: [Peter Pham Portfolio](https://peterp04.github.io/peter-pham
 - [Technologies](#technologies)
 - [Contact](#contact)
 
-## 👤 About
+## About
 
 Hello, my name is Peter Pham. I am a recent graduate from the University of Washington studying Geography: Data Science. 
 My work focuses on using spatial data and mapping technologies to analyze real-world problems, communicate geographic patterns, and support data-driven decision making.
@@ -25,13 +25,13 @@ My interests include spatial data visualization, environmental and urban analysi
 
 This portfolio highlights a selection of my GIS projects, including spatial analysis, web mapping applications, and research work. These projects demonstrate my experience working with geographic data, applying GIS techniques, and developing practical geospatial solutions.
 
-## ✨ Features
+## Features
 
 - **Fully Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - **Clean and intuitive user interface**
 - **Multi-Section Navigation** - Easy navigation through different portfolio sections
 
-## 🚀 Projects
+## Projects
 
 This portfolio showcases multiple sections highlighting different aspects of my work:
 
@@ -42,7 +42,7 @@ This portfolio showcases multiple sections highlighting different aspects of my 
 
 Each section provides detailed information about specific projects, skills, or experiences.
 
-## 💻 Technologies
+## Technologies
 
 This portfolio is built using:
 
@@ -51,7 +51,7 @@ This portfolio is built using:
 - **JavaScript** - Interactive functionality and animations
 - **Responsive Design** - Desktop/Mobile approach
 
-## 📧 Contact
+## Contact
 
 Feel free to reach out if you'd like to collaborate or discuss opportunities:
 
